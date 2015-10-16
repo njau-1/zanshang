@@ -1,0 +1,1 @@
+《${bookName}》项目作者${author}在沙龙中更新了样稿，欢迎留言讨论.<a href="/salons/${uid}">点击查看</a>.

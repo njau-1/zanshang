@@ -1,0 +1,1 @@
+恭喜您赞赏的项目${bookName}已经达到筹款成功额度.<a href="/projects/${projectId}">点击查看</a>.

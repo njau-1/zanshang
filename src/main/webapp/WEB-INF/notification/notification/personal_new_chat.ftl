@@ -1,0 +1,1 @@
+${senderName}给您发送了一条私信.<a href="/profile/${senderUid}#pLMsg">点击查看</a>.

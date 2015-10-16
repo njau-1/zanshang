@@ -1,0 +1,1 @@
+<script>window.parent.location.href='${callback}'</script>

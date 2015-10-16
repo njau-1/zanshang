@@ -1,0 +1,1 @@
+赞赏人${senderName}在《${bookName}》沙龙中发言了.<a href="/salons/${uid}">点击查看</a>.
